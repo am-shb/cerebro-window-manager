@@ -12,7 +12,7 @@ Press `Enter` to raise the window or `Ctrl+D` to close the window gracefuly.
 
 ## Installing
 
-* Type `plugins window` into Cerebro
+* Type `plugins manager` into Cerebro
 * Click `install`
 
 ## Roadmap
