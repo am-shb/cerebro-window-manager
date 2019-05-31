@@ -12,6 +12,13 @@ Press `Enter` to raise the window or `Ctrl+D` to close the window gracefuly.
 
 ## Installing
 
+* Note that this plugin depends on the `wmctrl` command so make sure you install that first  
+For example you can use the command below to install wmctrl on ubuntu if it's not installed already  
+```
+sudo apt-get update
+sudo apt-get install wmctrl
+```
+
 * Type `plugins manager` into Cerebro
 * Click `install`
 
