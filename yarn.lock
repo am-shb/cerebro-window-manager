@@ -1110,14 +1110,14 @@ cerebro-scripts@0.0.25:
     url-loader "^0.5.7"
     webpack "2.5.1"
 
-cerebro-tools@0.1.8:
+cerebro-tools@^0.1.8:
   version "0.1.8"
   resolved "https://registry.yarnpkg.com/cerebro-tools/-/cerebro-tools-0.1.8.tgz#876e5eff7ab036fdbcee283bdfa2939e989d6314"
   integrity sha1-h25e/3qwNv287ig736KTnpidYxQ=
   dependencies:
     memoizee "^0.4.1"
 
-cerebro-ui@0.0.16:
+cerebro-ui@^0.0.16:
   version "0.0.16"
   resolved "https://registry.yarnpkg.com/cerebro-ui/-/cerebro-ui-0.0.16.tgz#55695c26862ebd9a9e44646feb0b475c208d010e"
   integrity sha1-VWlcJoYuvZqeRGRv6wtHXCCNAQ4=
@@ -5521,9 +5521,9 @@ xtend@^4.0.0:
   integrity sha1-pcbVMr5lbiPbgg77lDofBJmNY68=
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 yallist@^2.1.2:
   version "2.1.2"
