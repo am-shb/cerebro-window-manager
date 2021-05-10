@@ -1,3 +1,5 @@
+**This package is no longer maintained**
+
 # cerebro-window-manager
 
 > [Cerebro](https://cerebroapp.com) plugin to list open windows and raise or close them.
